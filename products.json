@@ -1,0 +1,69 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Omron MC 246 Digital Thermometer",
+          "price": 238,
+          "image": { "fields": { "file": { "url": "./Assets/thermometer.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Omron HEM 7120 Fully Automatic Digital Blood Pressure Monitor",
+          "price": 375,
+          "image": { "fields": { "file": { "url": "./Assets/bp.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Ozomax Miracle Steamer",
+          "price": 2170,
+          "image": { "fields": { "file": { "url": "./Assets/steamer.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Accu-Chek Active Strips, Pack of 50",
+          "price": 1040,
+          "image": { "fields": { "file": { "url": "./Assets/accu-check.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Dr Trust Pulse Oximeter With Audio Visual Alarm and Respiratory Rate",
+          "price": 999,
+          "image": { "fields": { "file": { "url": "./Assets/oximeter.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Mylab CoviSelf COVID-19 Self Test Kit for Home,Pack of 2",
+          "price": 300,
+          "image": { "fields": { "file": { "url": "./Assets/covid-test.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Omron NE C28 Compressor Nebulizer",
+          "price": 2398,
+          "image": { "fields": { "file": { "url": "./Assets/nebulizer.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Omron HN 289 Automatic Personal Digital Weight Machine",
+          "price": 1299,
+          "image": { "fields": { "file": { "url": "./Assets/weighing-machine.jpg" } } }
+        }
+      }
+      
+    ]
+  }

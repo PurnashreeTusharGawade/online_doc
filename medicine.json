@@ -1,0 +1,69 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Dolo 650mg Strip Of 15 Tablets",
+          "price": 29,
+          "image": { "fields": { "file": { "url": "./Assets/dolo" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Evion 400mg Strip Of 10 Capsules",
+          "price": 32,
+          "image": { "fields": { "file": { "url": "./Assets/evion.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Pan 40mg Strip Of 15 Tablets",
+          "price": 132,
+          "image": { "fields": { "file": { "url": "./Assets/pan.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Zeet Dx Syrup 100ml",
+          "price": 108,
+          "image": { "fields": { "file": { "url": "./Assets/zeet.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Cofsils Orange Lozenges Strip Of 10",
+          "price": 26,
+          "image": { "fields": { "file": { "url": "./Assets/cofsils.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Zincovit Bottle Of 15ml Drops",
+          "price": 48,
+          "image": { "fields": { "file": { "url": "./Assets/zicovit" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Combigan Eye Drops",
+          "price": 423,
+          "image": { "fields": { "file": { "url": "./Assets/combigan.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Montek 10 MG Tablet Strip Of 10",
+          "price": 198,
+          "image": { "fields": { "file": { "url": "./Assets/montek.png" } } }
+        }
+      }
+      
+    ]
+  }
